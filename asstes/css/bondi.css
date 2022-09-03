@@ -63,7 +63,7 @@ body{
 .landing{
     background-color: var(--dark-color);
     min-height: calc(100vh - 72px);
-    background-image: url(../imgs/piotr-chrobot-6oUsyeYXgTg-unsplash.jpg);
+    background-image: url(imgs/piotr-chrobot-6oUsyeYXgTg-unsplash.jpg);
     background-size: cover;
 }
 
@@ -79,7 +79,7 @@ body{
 
 /* Start Services */
 .services{
-    background-image: url(../imgs/yiran-ding-JQRyYCC2OIM-unsplash.jpg);
+    background-image: url(imgs/yiran-ding-JQRyYCC2OIM-unsplash.jpg);
     background-size: cover; 
 }
 
